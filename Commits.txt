@@ -1,1 +1,3 @@
 Our project has begun! First commit to master.
+
+Our second commit to master.
